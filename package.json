@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "type": "module",
   "dependencies": {
     "accepts": "^2.0.0",
     "debug": "^4.4.3",
