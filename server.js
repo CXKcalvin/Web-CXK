@@ -58,7 +58,7 @@ app.get("/api/callback", async (req, res) => {
   }
 });
 
-// start server (kalau di local)
-app.listen(process.env.PORT || 3000, () => {
-  console.log(`Server jalan di port ${process.env.PORT}`);
-});
+// // start server (kalau di local)
+// app.listen(process.env.PORT || 3000, () => {
+//   console.log(`Server jalan di port ${process.env.PORT}`);
+// });
